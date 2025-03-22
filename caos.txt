@@ -1,0 +1,9 @@
+La Teoría del Caos
+nos dice que el resultado
+de un evento o el comportamiento 
+de un objeto en el futuro depende de
+diversas variables, y debido a estas 
+variables no podremos predecir el comportamiento
+futuro con precisión. 
+A partir de un determinado punto
+hacer predicciones será imposible.
